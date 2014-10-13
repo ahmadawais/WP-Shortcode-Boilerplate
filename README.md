@@ -2,6 +2,8 @@
 ![AA Basic Shortcodes Plugin Boilerplate](http://ahmadawais.com/wp-content/uploads/2014/10/Basic-Shortcode-WordPress-Plugin-Boilerplate-788x591.png)
 A standardized, organized, modular foundation for building simple & basic shortcodes in form of a WordPress Plugins.
 
+Article  [Coding a Basic Shortcodes Plugin Boilerplate](http://ahmadawais.com/coding-a-basic-shortcodes-plugin-boilerplate/)
+
 ## Contents
 
 The WordPress Plugin Boilerplate includes the following files:
