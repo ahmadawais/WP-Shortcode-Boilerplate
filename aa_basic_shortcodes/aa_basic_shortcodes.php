@@ -4,7 +4,7 @@
  * The plugin bootstrap file
  *
  *
- * @link              http://AhmadAwais.com
+ * @link              http://ahmadawais.com/coding-a-basic-shortcodes-plugin-boilerplate/
  * @since             1.0.0
  * @package           aa_basic_shortcodes
  *
