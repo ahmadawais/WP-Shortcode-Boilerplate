@@ -64,4 +64,4 @@ The AA Basic Shortcodes Plugin Boilerplate was coded by [Ahmad Awais](http://ahm
 
 ## Blog and More
 
-Here is the blog post about it  [Creating a Standard Shortcode Plugin](http://ahmadawais.com/)
+Here is the blog post about it  [Coding a Basic Shortcodes Plugin Boilerplate](http://ahmadawais.com/coding-a-basic-shortcodes-plugin-boilerplate/)
