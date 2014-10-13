@@ -10,7 +10,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       AA Basic Shortcodes Plugin Boilerplate
- * Plugin URI:        http://ahmadawais.com/plugin-name-uri/
+ * Plugin URI:        http://ahmadawais.com/coding-a-basic-shortcodes-plugin-boilerplate/
  * Description:       Coding shortcodes in a plugin with maintainable code practices.
  * Version:           1.0.0
  * Author:            Ahmad Awais
