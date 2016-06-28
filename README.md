@@ -9,7 +9,7 @@ Read [Coding a Basic Shortcodes Plugin Boilerplate](http://ahmadawais.com/coding
 
 The WordPress Plugin Boilerplate includes the following files:
 
-- A `shortcodes` subdirectory that contains three shortcodes.
+- A `shortcode` subdirectory that contains three shortcodes.
 - `shortcode-link` shortcode. 
 - `shortcode-member` shortcode. 
 - `shortcode-adsense` shortcode. 
