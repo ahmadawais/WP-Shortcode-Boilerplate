@@ -1,17 +1,18 @@
 # AA Basic Shortcodes Plugin Boilerplate
 ![AA Basic Shortcodes Plugin Boilerplate](http://ahmadawais.com/wp-content/uploads/2014/10/Basic-Shortcode-WordPress-Plugin-Boilerplate1-788x591.png)
-A standardized, organized, modular foundation for building simple & basic shortcodes in form of a WordPress Plugins.
+A standardized, organized, modular foundation for building simple & basic shortcodes in form of a WordPress Plugin.
 
-Article  [Coding a Basic Shortcodes Plugin Boilerplate](http://ahmadawais.com/coding-a-basic-shortcodes-plugin-boilerplate/)
+Read [Coding a Basic Shortcodes Plugin Boilerplate](http://ahmadawais.com/coding-a-basic-shortcodes-plugin-boilerplate/)
 
 ## Contents
 
 The WordPress Plugin Boilerplate includes the following files:
 
+* A `aa_basic_shortcodes` subdirectory that contains the source code - a fully executable WordPress plugin.
+* 
 * `.gitignore`. Used to exclude certain files from the repository.
 * `ChangeLog.md`. The list of changes to the core project.
 * `README.md`. The file that you’re currently reading.
-* A `aa_basic_shortcodes` subdirectory that contains the source code - a fully executable WordPress plugin.
 
 ## Features
 
@@ -27,10 +28,10 @@ Instead, the options are:
 
 ### Copying a Directory
 
-1. Copy the `aa_basic_shortcodes` directory into your `wp-content/plugins` directory. You may wish to rename this to something else.
-2. In the WordPress dashboard, navigation to the *Plugins* page
+1. Copy the `aa_basic_shortcodes` directory into your `wp-content/plugins` directory. You may wish to rename this it to something else.
+2. In the WordPress dashboard, navigation to the <kbd>Plugins</kbd> page
 Locate the menu item that reads “The WordPress Plugin Boilerplate.”
-3. Click on *Activate.*
+3. Click on <kbd>Activate</kbd>.
 
 
 
