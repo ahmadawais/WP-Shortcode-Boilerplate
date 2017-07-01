@@ -8,11 +8,11 @@
  * @since    1.0.0
  */
 
-if ( ! function_exists( 'aa_link_shortcode') ) {
+if ( ! function_exists( 'aa_link_shortcode' ) ) {
 	// Add the action.
 	add_action( 'plugins_loaded', function() {
-	    // Add the shortcode.
-	    add_shortcode( 'link', 'aa_link_shortcode' );
+		// Add the shortcode.
+		add_shortcode( 'link', 'aa_link_shortcode' );
 	});
 
 	/**
@@ -28,9 +28,9 @@ if ( ! function_exists( 'aa_link_shortcode') ) {
 
 		// Save $atts.
 		$_atts = shortcode_atts( array(
-				'u'  => '/', 			// URL.
-				't'  => $text_default, 	// Text.
-		    ), $atts );
+			'u'  => '/',           // URL.
+			't'  => $text_default, // Text.
+		), $atts );
 
 		// URL.
 		$_url = $_atts['u'];
@@ -44,4 +44,4 @@ if ( ! function_exists( 'aa_link_shortcode') ) {
 		// Return the data.
 		return $_return;
 	}
-}
+} // End if().

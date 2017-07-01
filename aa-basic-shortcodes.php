@@ -26,19 +26,19 @@ if ( ! defined( 'WPINC' ) ) {
  */
 // Plugin version.
 if ( ! defined( 'ABS_VERSION' ) ) {
-    define( 'ABS_VERSION', '2.0.0' );
+	define( 'ABS_VERSION', '2.0.0' );
 }
 
 if ( ! defined( 'ABS_NAME' ) ) {
-    define( 'ABS_NAME', trim( dirname( plugin_basename( __FILE__ ) ), '/' ) );
+	define( 'ABS_NAME', trim( dirname( plugin_basename( __FILE__ ) ), '/' ) );
 }
 
-if ( ! defined('ABS_DIR' ) ) {
-    define( 'ABS_DIR', WP_PLUGIN_DIR . '/' . ABS_NAME );
+if ( ! defined( 'ABS_DIR' ) ) {
+	define( 'ABS_DIR', WP_PLUGIN_DIR . '/' . ABS_NAME );
 }
 
-if ( ! defined('ABS_URL' ) ) {
-    define( 'ABS_URL', WP_PLUGIN_URL . '/' . ABS_NAME );
+if ( ! defined( 'ABS_URL' ) ) {
+	define( 'ABS_URL', WP_PLUGIN_URL . '/' . ABS_NAME );
 }
 
 /**
@@ -47,7 +47,7 @@ if ( ! defined('ABS_URL' ) ) {
  * @since 1.0.0
  */
 if ( file_exists( ABS_DIR . '/shortcode/shortcode-link.php' ) ) {
-    require_once( ABS_DIR . '/shortcode/shortcode-link.php' );
+	require_once( ABS_DIR . '/shortcode/shortcode-link.php' );
 }
 
 /**
@@ -56,7 +56,7 @@ if ( file_exists( ABS_DIR . '/shortcode/shortcode-link.php' ) ) {
  * @since 1.0.0
  */
 if ( file_exists( ABS_DIR . '/shortcode/shortcode-member.php' ) ) {
-    require_once( ABS_DIR . '/shortcode/shortcode-member.php' );
+	require_once( ABS_DIR . '/shortcode/shortcode-member.php' );
 }
 
 /**
@@ -65,5 +65,5 @@ if ( file_exists( ABS_DIR . '/shortcode/shortcode-member.php' ) ) {
  * @since 1.0.0
  */
 if ( file_exists( ABS_DIR . '/shortcode/shortcode-adsense.php' ) ) {
-    require_once( ABS_DIR . '/shortcode/shortcode-adsense.php' );
+	require_once( ABS_DIR . '/shortcode/shortcode-adsense.php' );
 }
