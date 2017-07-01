@@ -9,11 +9,11 @@
  * @since    1.0.0
  */
 
-if ( ! function_exists( 'aa_member_shortcode') ) {
+if ( ! function_exists( 'aa_member_shortcode' ) ) {
 	// Add the action.
 	add_action( 'plugins_loaded', function() {
-	    // Add the shortcode.
-	    add_shortcode('member', 'aa_member_shortcode');
+		// Add the shortcode.
+		add_shortcode( 'member', 'aa_member_shortcode' );
 	});
 
 	/**
@@ -31,7 +31,7 @@ if ( ! function_exists( 'aa_member_shortcode') ) {
 		// Save $atts.
 		$_atts = shortcode_atts( array(
 			'e'  => $error_default, // Error message.
-	    ), $atts );
+		), $atts );
 
 		// Error.
 		$_error = $_atts['u'];
@@ -46,4 +46,4 @@ if ( ! function_exists( 'aa_member_shortcode') ) {
 			return $_error;
 		}
 	}
-}
+} // End if().
