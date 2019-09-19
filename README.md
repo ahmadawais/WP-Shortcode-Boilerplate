@@ -25,9 +25,7 @@ Just download the zip and install it as a WordPress plugin.
 
 Licensed under GNU GPL v2.0.
 
-[![Partners](https://on.ahmda.ws/osEJ/c)](/)
-
-### Project Backers & [TheDevCouple Partners](https://TheDevCouple.com/partners) ⚡️
+## Project Backers & [TheDevCouple Partners](https://TheDevCouple.com/partners) ⚡️
 
 This FOSS (free and open source software) project is updated and maintained with the help of awesome businesses listed below. Without the support from these amazing companies/individuals, this project would not have been possible.
 
