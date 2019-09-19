@@ -1,4 +1,5 @@
 # WP-Shortcode-Boilerplate Plugin
+
 ![WP-Shortcode-Boilerplate Plugin](http://ahmadawais.com/wp-content/uploads/2014/10/Basic-Shortcode-WordPress-Plugin-Boilerplate1-788x591.png)
 
 A standardized, organized, modular foundation for building simple & basic shortcodes in form of a WordPress Plugin.
@@ -17,14 +18,16 @@ The WordPress Plugin Boilerplate includes the following files:
 The Boilerplate is based on the [Plugin API](http://codex.wordpress.org/Plugin_API), [Coding Standards](http://codex.wordpress.org/WordPress_Coding_Standards), and [Documentation Standards](http://make.wordpress.org/core/handbook/inline-documentation-standards/php-documentation-standards/).
 
 ## Installation
+
 Just download the zip and install it as a WordPress plugin.
 
 ## License
+
 Licensed under GNU GPL v2.0.
 
 ---
-### 🙌 [WPCOUPLE PARTNERS](https://WPCouple.com/partners):
-This open source project is maintained by the help of awesome businesses listed below. What? [Read more about it →](https://WPCouple.com/partners)
+### 🙌 [WPCOUPLE PARTNERS](https://TheDevCouple.com/partners):
+This open source project is maintained by the help of awesome businesses listed below. What? [Read more about it →](https://TheDevCouple.com/partners)
 
 <table width='100%'>
 	<tr>
@@ -50,6 +53,6 @@ This open source project is maintained by the help of awesome businesses listed 
 	<tr>
 		<td width='333.33'><a target='_blank' href='https://mythemeshop.com/?utm_source=WPCouple&utm_medium=Partner'><img src='shttp://on.ahmda.ws/n3ug/c' /></a></td>
 		<td width='333.33'><a target='_blank' href='https://www.liquidweb.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtnt/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu3F/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://TheDevCouple.com/contact?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu3F/c' /></a></td>
 	</tr>
 </table>
