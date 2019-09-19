@@ -1,6 +1,7 @@
-# WP-Shortcode-Boilerplate Plugin
-
-![WP-Shortcode-Boilerplate Plugin](http://ahmadawais.com/wp-content/uploads/2014/10/Basic-Shortcode-WordPress-Plugin-Boilerplate1-788x591.png)
+<h1 align="center">
+  <img alt="WP-Shortcode-Boilerplate Plugin" src="http://ahmadawais.com/wp-content/uploads/2014/10/Basic-Shortcode-WordPress-Plugin-Boilerplate1-788x591.png" />
+  WP-Shortcode-Boilerplate Plugin
+</h1>
 
 A standardized, organized, modular foundation for building simple & basic shortcodes in form of a WordPress Plugin.
 
