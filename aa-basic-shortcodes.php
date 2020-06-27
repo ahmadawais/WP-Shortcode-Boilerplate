@@ -46,24 +46,18 @@ if ( ! defined( 'ABS_URL' ) ) {
  *
  * @since 1.0.0
  */
-if ( file_exists( ABS_DIR . '/shortcode/shortcode-link.php' ) ) {
-	require_once( ABS_DIR . '/shortcode/shortcode-link.php' );
-}
+require_once( ABS_DIR . '/shortcode/shortcode-link.php' );
 
 /**
  * Member.
  *
  * @since 1.0.0
  */
-if ( file_exists( ABS_DIR . '/shortcode/shortcode-member.php' ) ) {
-	require_once( ABS_DIR . '/shortcode/shortcode-member.php' );
-}
+require_once( ABS_DIR . '/shortcode/shortcode-member.php' );
 
 /**
  * Adsense.
  *
  * @since 1.0.0
  */
-if ( file_exists( ABS_DIR . '/shortcode/shortcode-adsense.php' ) ) {
-	require_once( ABS_DIR . '/shortcode/shortcode-adsense.php' );
-}
+require_once( ABS_DIR . '/shortcode/shortcode-adsense.php' );
